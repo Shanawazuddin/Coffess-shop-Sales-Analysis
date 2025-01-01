@@ -68,7 +68,7 @@ This project dives deep into the sales data of a coffee shop chain, leveraging *
 ## 📈 How to Use This Project  
 1. Clone the repository:  
    ```bash  
-   [https://github.com/Shanawazuddin/Coffess-shop-Sales-Analysis/tree/main](https://github.com/Shanawazuddin/Coffess-shop-Sales-Analysis)
+   (https://github.com/Shanawazuddin/Coffess-shop-Sales-Analysis)
    ```  
 2. Open the Excel file in this repository to view the interactive dashboard.  
 3. Explore insights and trends using slicers and filters.  
@@ -85,7 +85,7 @@ This project dives deep into the sales data of a coffee shop chain, leveraging *
 ## 🤝 Let's Connect!  
 I’m passionate about data-driven decision-making and storytelling through dashboards. Let’s collaborate and share ideas!  
 
-- **[LinkedIn](www.linkedin.com/in/shanawaz474)**  
+- **[LinkedIn](https://www.linkedin.com/in/shanawaz474/?originalSubdomain=in)**  
 - **[GitHub](https://github.com/Shanawazuddin)**  
 
 ---
