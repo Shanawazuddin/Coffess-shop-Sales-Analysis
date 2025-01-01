@@ -61,7 +61,7 @@ This project dives deep into the sales data of a coffee shop chain, leveraging *
 
 
 ## 🖼️ Dashboard Snapshot  
-![Dashboard Screenshot](path/to/dashboard-image.png)  
+![Dashboard Screenshot](https://github.com/Shanawazuddin/Coffess-shop-Sales-Analysis/blob/main/Coffee%20shop%20Sales%20project%20Dashboard.png)  
 
 
 
