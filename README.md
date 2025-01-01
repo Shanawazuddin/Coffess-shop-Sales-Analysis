@@ -68,7 +68,7 @@ This project dives deep into the sales data of a coffee shop chain, leveraging *
 ## 📈 How to Use This Project  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/coffee-shop-sales-dashboard.git  
+   https://github.com/Shanawazuddin/Coffess-shop-Sales-Analysis/tree/main
    ```  
 2. Open the Excel file in this repository to view the interactive dashboard.  
 3. Explore insights and trends using slicers and filters.  
