@@ -82,14 +82,6 @@ This project dives deep into the sales data of a coffee shop chain, leveraging *
 
 ---
 
-## 🤝 Let's Connect!  
-I’m passionate about data-driven decision-making and storytelling through dashboards. Let’s collaborate and share ideas!  
-
-- **[Email](shanawazuddin474@gmail.com)**  
-- **[GitHub](https://github.com/Shanawazuddin)**  
-
----
-
 ## 📌 Acknowledgment  
 Special thanks to the coffee shop dataset that provided a hands-on opportunity to learn and grow in the field of **data analysis**.  
 
